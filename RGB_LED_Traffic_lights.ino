@@ -1,3 +1,5 @@
+//Pretty much code that I won't use later but remind me how I program an Arduino.
+
 int green = 3; 
 int red = 5;
 int yellow = 4;
